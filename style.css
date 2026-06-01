@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(200, 105, 238, 0.777);
+    text-align: center;
+    display: flex;
+    align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+.cartao{
+    width: 50%;
+    background-color: rgb(120, 72, 165);
+    margin: auto;
+    border-radius: 15%;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    color: rgb(67, 33, 80);
+}
+h2{
+    color: rgb(66, 23, 83);
+}
+p{
+    color: rgb(56, 29, 81);
+}
